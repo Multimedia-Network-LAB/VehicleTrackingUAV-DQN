@@ -4,3 +4,4 @@
 *.vbhtml linguist-language-ignore
 *.cs linguist-language-ignore
 *.vb linguist-language-ignore
+*.dll linguist-language-ignore
