@@ -1,0 +1,6 @@
+# ASP.NET 관련 파일 무시
+*.aspx linguist-language-ignore
+*.cshtml linguist-language-ignore
+*.vbhtml linguist-language-ignore
+*.cs linguist-language-ignore
+*.vb linguist-language-ignore
